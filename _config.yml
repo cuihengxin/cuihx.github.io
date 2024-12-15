@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cui Hengxin's Homepage""
+title                    : "Cui Hengxin Homepage""
 title_separator          : "-"
 name                     : &name "Cui Hengxin"
 description              : &description "personal description"
