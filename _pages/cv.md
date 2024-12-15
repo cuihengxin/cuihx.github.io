@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+* Ph.D in Theoretical Chemistry, Peking University, 2025 (expected)
+* B.S. in Applied Chemistry, Nankai University, 2021
+* B.S. in International Economics and Trade, Nankai University, 2021
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Autumn 2023: Computational Chemistry study for OER catalyst
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: D-$\pi$-A Type-Based NIR Probe
+  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experimental Skills
+  * Organic Synthesis: distillation; column chromatography; 
+  * Instrumental Techniques: GC-MS; NMR; IR; LC-MS; UV-Vis; MALDI-TOF;
+* Computational Softwares: VMD, Gviews; Gaussian; Chemdraw; Multiwfn;
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Writing and Ploting: Latex, Matplotlib, Origin, gnuplot;
+* Coding and Scripting: Markdown, Python, Bash;
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  公能会客厅：辅修讲座分享。2023.5
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  * 2023-2024: Teaching Assistant for mechanics, thermodynamics and electromagnetics.
